@@ -1,4 +1,4 @@
-public class NameTest {
+ public class NameTest {
     public static void main(String[] args) {
         Name name = new Name(
                              "Mr.",
@@ -8,7 +8,7 @@ public class NameTest {
                              "Jones",
                              "Jinkens",
                              "III",
-                "Ph.D."
+                			 "Ph.D."
                              );
 
         System.out.printf("%s %s %s %s (formerly %s) %s, %s\n",
